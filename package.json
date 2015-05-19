@@ -1,0 +1,19 @@
+{
+  "name": "clima-api-texts",
+  "version": "0.0.1",
+  "description": "...",
+  "license": "BSD",
+  "dependencies": {
+    "change-case-keys": "0.0.4"
+  },
+  "main": "lib/index.js",
+  "devDependencies": {
+    "boom": "^2.7.1",
+    "chalk": "^1.0.0",
+    "config": "^1.13.0",
+    "hoek": "^2.13.0",
+    "joi": "^6.4.1",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.0.3"
+  }
+}
