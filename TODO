@@ -1,0 +1,23 @@
+clima-api-texts
+
+1)
+API routes
+    GET /api/texts
+    PUT /api/texts
+    etc
+
+2)
+sql functions to obtain the data from the db (we assume the db has the correct tables)
+
+3)
+pre-requisite functions that can be used by the route handlers
+
+    pre.texts.allTexts
+    pre.texts.allTextsArray
+
+
+4)
+transforms
+
+
+5)
