@@ -4,6 +4,7 @@
   "description": "...",
   "license": "BSD",
   "dependencies": {
+    "callsite": "^1.0.0",
     "change-case-keys": "0.0.4"
   },
   "main": "lib/index.js",
